@@ -1,6 +1,5 @@
 # Defendhub
 # Kernel Dasturlash  - O'zbek Dasturchilari uchun Interaktiv Platforma
-https://github.com/zayniddin/assets/16460469-34d1-4017-92cc-b936884d4c61
 
 
 ## Loyihaning maqsadi:
