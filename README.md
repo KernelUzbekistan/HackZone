@@ -1,6 +1,6 @@
 # Defendhub
 # Kernel Dasturlash  - O'zbek Dasturchilari uchun Interaktiv Platforma
-![image](https://github.com/user-attachments/assets/2b98a71b-cf69-4d3b-b29b-bda20c63e65a)
+
 
 ## Loyihaning maqsadi:
 Bu loyiha O'zbekiston dasturchilari uchun Linux Kernel dasturlashni o'rganish, tajribalarni hujjatlashtirish va bu jarayonni interaktiv tarzda amalga oshirish uchun yaratilgan. Har bir dasturchi o'z hissasini qo'shishi va birgalikda kernelni o'rganish jarayonida bilimlar almashishi mumkin.
