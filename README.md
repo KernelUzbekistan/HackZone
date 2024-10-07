@@ -61,8 +61,9 @@ Ushbu hujjatlarni to'liq tushunish uchun quyidagi bilimlar kerak bo'ladi. Agar s
 ## Hamkorlik va guruhga qo'shilish:
 O'zbekistonning dasturchilari uchun yaratilgan ushbu platformada har bir kishi o'z hissasini qo'sha oladi. Kernel dasturlash bilan bog'liq savollarni muhokama qilish, kod yozish, va yangi bilimlarni bo'lishish imkoniyati mavjud. Hamma qatnashchilar yangi bilimlarni birgalikda o'rganadi va kernel texnologiyasida yangi natijalarga erishadi.
 
-Guruhga qo'shilish uchun GitHub orqali o'z profilingizni bog'lab, yangi pull requestlar orqali o'z hissangizni qo'shishingiz mumkin!
-
+Guruhga qo'shilish uchun GitHub orqali o'z profilingizni bog'lab, yangi pull requestlar orqali o'z hissangizni qo'shishingiz mumkin !
+Kerakli qullanmaalr barchasini uzbek tilida gruhdan topasiz !
+[telegram] (https://t.me/LinuxKernel_uz)
 ---
 
 ## **Wiki Sahifalar Tuzilishi:**
