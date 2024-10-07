@@ -1,5 +1,6 @@
 # Defendhub
 # Kernel Dasturlash  - O'zbek Dasturchilari uchun Interaktiv Platforma
+[kernel3](https://github.com/user-attachments/assets/16460469-34d1-4017-92cc-b936884d4c61)
 
 
 ## Loyihaning maqsadi:
