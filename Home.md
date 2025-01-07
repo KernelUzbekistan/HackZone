@@ -1,4 +1,4 @@
-# Defendhub
+# Hakzone uz
 # Kernel Dasturlash  - O'zbek Dasturchilari uchun Interaktiv Platforma
 
 
